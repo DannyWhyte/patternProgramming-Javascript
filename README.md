@@ -1,2 +1,2 @@
 # patternProgramming-Javascript
-Sampe codes to print patterns in javascript
+Sample scripts to print patterns using javascript
